@@ -10,7 +10,12 @@ Page תמא both columns are done — the 310 worlds and the 103/207 split,
 book page (number to confirm, presumably תמב), right column: Shiloh as מנוחה,
 and מנחה → נחמה. That piece breaks after `לאותיות נחמ"ה`.
 
-**Next:** the line beginning under `נחמ"ה`, rest of that right column.
+Then back to the verse itself: בידו as one hand, Esau's `יש לי רב`, the eight
+mem-words of the gift against the eight princes of the klipah and the eight
+kings of Edom, and the מ of מנחה as מומין. Breaks at
+`וכדי שלא תאמר ח"ו שאלו הח'...`
+
+**Next:** continue from `וכדי שלא תאמר ח"ו`.
 
 ---
 
@@ -232,3 +237,82 @@ because the right side feeds it. And at the end, the same letters settle as
 **נחמה**. Which lands back on our verse: Jacob sends מנחה to Esau — the sending
 of din into the left — and the end of that story, in the same four letters, is
 consolation.
+
+
+---
+
+## Back to the verse: one hand, eight words
+
+### `בידו` — one hand, not two
+
+> ונחזור אל הפירוש, כי הלא ביארנו, כי המנחה הם ק"ג עולמות של יד שמאל, וזהו
+> ויקח מן הבא בידו מנחה, ולא בידיו רק בידו, שהם הגבורות יד אחת, שהם סוד
+> המנחה, לפי שעשו נמשך מגבורות, לכן ניתן לו חלק משם.
+
+"Let us return to the explanation. We have explained that the Minchah is the
+103 worlds of the **left hand**. And this is `ויקח מן הבא בידו מנחה` — not
+בידיו, 'his hands', but בידו, 'his hand', for they are the Gevurot, **one
+hand**, which are the secret of the Minchah. Since Esau is drawn from the
+Gevurot, he is therefore given a portion from there."
+
+A close reading of the singular. Esau gets one hand's worth — the left, the
+103 — not both hands, not the full 310.
+
+### Esau's counter-claim
+
+> אמנם עשו הרשע רמז לו, כי גם הוא אם ירצה, יכול לינק מכל י"ש עולמות ע"י
+> קטרוגו בעו"ה, וז"ש יש לי רב אחי, כלומר הי"ש שלי.
+
+"But Esau the wicked hinted to him that he too, if he wished, could suckle
+from **all** the 310 worlds, by means of his accusation — and this is what he
+said, `יש לי רב אחי` (Gen. 33:9), meaning: **the יש is mine**."
+
+The same letters inverted: ש"י ↔ יש. Jacob offers him the left-hand 103; Esau
+answers that he can draw the whole 310 by prosecuting.
+
+### Eight words ending in mem
+
+> והנה תמצא במנחה ששלח יעקב לעשו, עזים מאתים כו' ח' תיבות רצופין מסיימות
+> במ"ם, הם נגד ח' שרים שעומדים בקליפה
+
+"You will find in the Minchah that Jacob sent Esau — `עזים מאתים` etc. — eight
+consecutive words ending in **מ**, corresponding to the eight princes that
+stand in the klipah."
+
+The count holds. Gen. 32:15: עִזִּים מָאתַיִם וּתְיָשִׁים עֶשְׂרִים רְחֵלִים
+מָאתַיִם וְאֵילִים עֶשְׂרִים — eight words in a row, every one ending in ם.
+
+> וכנגדם בקדושה יש ג"כ ח' תיבות מסיימין במ"ם, בענין הקרבן: תמימים, ומנחתם,
+> ונסכיהם, לפרים וכו', הם נגד ח' מלכים שמלכו בארץ אדום, שלהם שורש בקדושה
+> כנודע.
+
+"And against them in holiness there are likewise eight words ending in מ, in
+the matter of the offering — תמימים, ומנחתם, ונסכיהם, לפרים etc. — and these
+correspond to the **eight kings who reigned in the land of Edom**, whose root
+is in holiness, as is known."
+
+The offering-words are from the Musaf of Sukkot (Num. 29). The eight kings of
+Edom are Gen. 36:31–39 — the end of our own parasha.
+
+### The מ of מנחה: מומין
+
+> וזהו שרמז יעקב בענין הקליפה באות מ' במנחה, לומר מומי"ן הטיל יעקב בהם, כדי
+> שיפסלו לע"ז, כמאמר רז"ל ד.
+
+"And this is what Jacob hinted regarding the klipah by the letter מ of מנחה —
+to say that Jacob cast **blemishes** (מומין) into them, so that they would be
+disqualified for idolatry, as Chazal said." (Footnote ד.)
+
+The gift is given, but made unfit to be offered up to anything else.
+
+> וכדי שלא תאמר ח"ו שאלו הח'... *(breaks here)*
+
+### Thread
+
+Everything turns on measure. Jacob gives from **one** hand — the 103, Esau's
+own portion in the Gevurot — and no more; Esau answers `יש לי רב`, claiming
+the whole ש"י. Then the structure of the gift itself: eight mem-words against
+the eight princes of the klipah, matched word for word by eight mem-words of
+the offering in holiness, and behind both the eight kings of Edom whose root
+is above. And the first letter of מנחה carries מומין: the gift goes out
+blemished, so that what Esau receives can never be raised up as an offering.
