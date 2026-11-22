@@ -53,7 +53,21 @@ they are. If the Arizal hints at a numerical match without spelling it out, say
   must be marked as **context**, never presented as the Arizal's words.
 - Summarize a footnote briefly when it raises a difficulty (קושיא / צ"ע).
 
+## How a session runs
+
+Chavruta style. Mark posts a screenshot of a piece of the page and we discuss it
+— back and forth, a piece at a time, not a lecture. Work only from the piece in
+front of us; if it starts mid-sentence or mid-passage, say so and ask for what
+comes before rather than filling the gap.
+
+Write the notes into `<Parasha>/Notes/<Parasha>.md` as we go, and update that
+file's `## Progress` section before the session ends.
+
 ## Reading the scans
+
+Mark normally supplies the images. Render from the PDF yourself when we need to
+look back at a page he has not posted, or to check the surrounding columns.
+
 
 The scans are images. **`pdftotext` on these PDFs returns garbage** — the
 embedded font has no usable Unicode mapping, so the output looks like Latin
