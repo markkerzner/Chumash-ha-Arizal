@@ -343,10 +343,15 @@ and the verse is cut off right there, so that the word of wholeness closes one
 verse and the run of mems opens the next.
 
 **Context (the verses themselves, not quoted in full by the passage):**
-Num. 29:17 ends `כְּבָשִׂים בְּנֵי שָׁנָה אַרְבָּעָה עָשָׂר תְּמִימִם`, and
-29:18 reads `וּמִנְחָתָם וְנִסְכֵּיהֶם לַפָּרִים לָאֵילִם וְלַכְּבָשִׂים
-בְּמִסְפָּרָם כַּמִּשְׁפָּט` — seven words ending in ם, with תמימם before them
-making eight. This pattern repeats through the days of Sukkot.
+Num. 29:17 ends `...אַרְבָּעָה עָשָׂר תְּמִימִם`, and 29:18 reads
+`וּמִנְחָתָם וְנִסְכֵּיהֶם לַפָּרִים לָאֵילִם וְלַכְּבָשִׂים בְּמִסְפָּרָם
+כַּמִּשְׁפָּט`. The pattern repeats through the days of Sukkot.
+
+*(צ"ע on the count. The run that starts with תמימם at the end of one verse and
+continues ומנחתם ונסכיהם לפרים לאילם ולכבשים במספרם comes to **seven** words
+ending in ם — כמשפט ends in ט. The Arizal says eight, matching Esau's eight;
+how he reaches the eighth is not spelled out here, and the passage quotes only
+`תמימים, ומנחתם, ונסכיהם, לפרים וכו'`. Recorded as his count, not verified.)*
 
 ### Why one verse there and two verses here
 
