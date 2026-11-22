@@ -20,9 +20,21 @@ The passage ends there, attributed to **ליקוטי תורה**.
 **Sources for going deeper** — Zohar Terumah 166, פתחי שערים, shiurim and a
 buying list: see `## Sources and further study` at the end of this file.
 
-**Next:** the following passage on page תמב, left column, beginning
-`פ' וילן שם בלילה ההוא וכו' עזים מאתים וכו' ויותר יעקב לבדו וכו'` — Jacob's
-gift reckoned as תק"ן, pure and impure, and `ויותר יעקב לבדו`.
+**Next:** the following passage, beginning `פ' וילן שם בלילה ההוא וכו'
+עזים מאתים וכו' ויותר יעקב לבדו וכו'` — Jacob's gift reckoned as תק"ן,
+pure and impure; the יו"ד of יעקב and the crossing of יב"ק; ויותר יעקב לבדו.
+
+*Where it sits (checked against the scan, 2026-11-22, not yet studied):* it
+begins partway down the **left column of תמב** (PDF p. 2), directly after the
+ליקוטי תורה passage we finished, and runs over onto the **right column of תמג**
+(PDF p. 3), ending at the attribution **ספר הליקוטים** about two-thirds down
+that column. Footnote ה on p. 2 is חולין צ"א ע"א — יעקב חזר על פכים קטנים.
+
+*After that:* the rest of תמג (right column bottom + the whole left column) is a
+**second, parallel version of the מנחה teaching**, opening `ויקח מן הבא בידו
+מנחה לעשו אחיו` with the same programmatic line `רצוני לבאר לך כאן...` and the
+same Zohar Terumah / ש"י עולמות opening — but attributed to **ספר הליקוטים**,
+not ליקוטי תורה. Worth reading beside page תמא to compare the two recensions.
 
 ---
 
