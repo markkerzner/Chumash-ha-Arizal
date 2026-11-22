@@ -4,11 +4,12 @@
 
 Scan: `Vayishlach/Scans/Vayishlach.pdf`, 15 pages. PDF page 1 = book page **תמא**.
 
-Started the האריז"ל section of page תמא, right column: the passage on
-`ויקח מן הבא בידו מנחה` (Gen 32:14). Covered its opening, through
-`לכן נקרא תפלת` — the piece breaks mid-sentence there.
+Working through the האריז"ל section of page תמא, right column: the passage on
+`ויקח מן הבא בידו מנחה` (Gen 32:14). Covered the opening (the 310 worlds, the
+103/207 split, מנחה = 103) and the decoding of the letters מ-נ-ח-ה, through
+`וזה הענין` — the piece breaks mid-sentence there.
 
-**Next:** continue from `לכן נקרא תפלת [מנחה]`, rest of the right column.
+**Next:** continue from `וזה הענין`, on the זיווג אב"א of Minchah.
 
 ---
 
@@ -88,3 +89,79 @@ Jacob's מנחה to Esau is then not merely a present — Esau is that same left
 side, Edom, din. Jacob sends a gift into the left at the hour the left
 awakens, which is what praying Minchah does: give the left its portion and so
 sweeten it.
+
+
+---
+
+### The letters of מנחה
+
+> מנחה. גם דע, כי הנה סוד הדינין כולם, מסוד מנצפ"ך, ואותיות מ"נ של מנחה, הם
+> מ"נ דמנצפ"ך.
+
+"Minchah. Know also that the secret of all the dinim is from the secret of
+מנצפ"ך, and the letters מ"נ of מנחה are the מ"נ of מנצפ"ך."
+
+The opening word closes the sentence left hanging: `לכן נקרא תפלת מנחה`.
+
+מנצפ"ך — the five final-form letters — are the five Gevurot, the root of all
+din. מנחה opens with the same two letters מ-נ that open מנצפ"ך.
+
+> גם נודע, שכל אלו הה"ג, הם חוזרים להתאסף בחוטמא, ח', ששם מקור כל הדינין
+> והתבסמותן, כמבואר בפסוק ואסף איש טהור.
+
+"It is also known that all these five Gevurot return to gather in the nose —
+ח — for there is the source of all the dinim and their sweetening, as is
+explained at the verse `ואסף איש טהור`."
+
+ה"ג = ה' גבורות, the five Gevurot. חוטמא, the nose: where the dinim collect
+and are sweetened (התבסמות). The proof-text is Num. 19:9, the gathering of the
+ashes of the red heifer — ואסף, the same gathering as להתאסף.
+
+> אחר כך נמשכין בפומא, שהוא אות ה' כנודע. וזהו ח"ה דמנחה.
+
+"Afterwards they are drawn into the mouth, which is the letter ה, as is known.
+And this is the ח-ה of מנחה."
+
+**Context, not in the passage:** the mouth is ה because of its ה' מוצאות הפה,
+the five outlets of speech — five again, matching the five Gevurot. The text
+only says כנודע.
+
+So the whole word is decoded:
+
+| letter | stands for |
+|---|---|
+| מ נ | מנצפ"ך — the five Gevurot at their root |
+| ח | חוטמא, the nose — where they gather and are sweetened |
+| ה | פומא, the mouth — where they then issue |
+
+> הרי ידעת, איך מנחה מעורר כל הדינין של גבורה, שהוא ק"ג כמנין מנחה.
+
+"So you now know how מנחה arouses all the dinim of Gevurah — which is 103, the
+count of מנחה."
+
+*(Reading uncertain: מעורר, "arouses," or מעורב, "is compounded of." מעורר
+matches the מתעוררין of the opening.)*
+
+### Minchah as back-to-back coupling
+
+> והנה כבר הודעתיך ב, כי בתפלת המנחה אז הוא זיווג אב"א בשיעור קומתו ממש,
+> וזה הענין
+
+"I have already informed you that at the Minchah prayer there is the coupling
+of אב"א — back to back — in the actual full measure of his stature, and this
+is the matter —" *(breaks here)*
+
+Footnote ב sends to שער הכוונות, כוונות ק"ש דרוש א'.
+
+אב"א = אחור באחור, back to back: the configuration of distance and din, fitting
+the hour when the left is awake.
+
+### Thread
+
+The opening gave the *number* of Minchah; this gives its *anatomy*. The word
+spells out the whole career of the Gevurot — rooted in מנצפ"ך (מ"נ), gathered
+and sweetened in the nose (ח), issuing through the mouth (ה). That last step is
+why it is a **prayer**: prayer is speech, dinim leaving by way of the mouth
+after the nose has sweetened them. And it reaches back to the verse — Jacob's
+מנחה is sent to Esau at the hour of back-to-back, the gift going out ahead of
+the face, exactly as the sweetened din goes out through the mouth.
