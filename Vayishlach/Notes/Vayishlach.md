@@ -465,11 +465,13 @@ has a VaYishlach section; whether that section includes this מנחה passage is
 
 ### Lectures
 
-- **שער הפסוקים לאריז"ל – פרשות השבוע**, weekly, ~65 min audio — zkolel.com.
-  The closest thing to what we are doing.
 - **עץ חיים** with פנים מאירות ומסבירות, audio by ענף and אות — hasulam.co.il.
 - **עץ חיים למתחילים**, Rav Shai Asia, 57 shiurim — simshalom.co.il.
 - Not found: any shiur series on **ליקוטי תורה** on the parasha specifically.
+
+**Ruled out:** the zkolel.com weekly שער הפסוקים series — Mark's judgment
+(2026-11-22): not relevant to what we are doing and not on the level of the
+Arizal's own text. Do not propose it again.
 
 ### Buying — seforimcenter.com
 
