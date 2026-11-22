@@ -5,17 +5,21 @@
 Scan: `Vayishlach/Scans/Vayishlach.pdf`, 15 pages. PDF page 1 = book page **תמא**.
 
 Working through the האריז"ל passage on `ויקח מן הבא בידו מנחה` (Gen 32:14).
-Page תמא both columns are done — the 310 worlds and the 103/207 split,
-מנחה = 103, and the decoding of the letters מ-נ-ח-ה. Continued onto the next
-book page (number to confirm, presumably תמב), right column: Shiloh as מנוחה,
-and מנחה → נחמה. That piece breaks after `לאותיות נחמ"ה`.
 
-Then back to the verse itself: בידו as one hand, Esau's `יש לי רב`, the eight
-mem-words of the gift against the eight princes of the klipah and the eight
-kings of Edom, and the מ of מנחה as מומין. Breaks at
-`וכדי שלא תאמר ח"ו שאלו הח'...`
+**Page תמא (PDF p. 1), both columns — done.** The 310 worlds and the 103/207
+split, מנחה = 103, the decoding of the letters מ-נ-ח-ה.
 
-**Next:** continue from `וכדי שלא תאמר ח"ו`.
+**Page תמב (PDF p. 2) — done, both columns.** Right column: Shiloh as מנוחה,
+מנחה → נחמה; then back to the verse — בידו as one hand, Esau's `יש לי רב`, the
+eight mem-words of the gift against the eight princes of the klipah and the
+eight kings of Edom, and the מ of מנחה as מומין. Left column: why the eight
+mem-words in holiness are *not* blemished (תמימם closes the previous verse),
+and why Esau's eight sit in one verse while the holy eight are split over two.
+The passage ends there, attributed to **ליקוטי תורה**.
+
+**Next:** the following passage on page תמב, left column, beginning
+`פ' וילן שם בלילה ההוא וכו' עזים מאתים וכו' ויותר יעקב לבדו וכו'` — Jacob's
+gift reckoned as תק"ן, pure and impure, and `ויותר יעקב לבדו`.
 
 ---
 
@@ -316,3 +320,65 @@ the eight princes of the klipah, matched word for word by eight mem-words of
 the offering in holiness, and behind both the eight kings of Edom whose root
 is above. And the first letter of מנחה carries מומין: the gift goes out
 blemished, so that what Esau receives can never be raised up as an offering.
+
+---
+
+## Page תמב, left column — why the holy mems are not blemishes
+
+### The objection
+
+> וכדי שלא תאמר ח"ו שאלו הח' ממי"ן אחרים דבקדושה, ג"כ רומזים מומין, לזה הקדים
+> בפסוק שלפניו ואמר תמימים, ופסק וסיים, ואחר כך פסוק הב' התחיל ומנחתם וכו'.
+
+"And so that you should not say, God forbid, that those **other** eight mems,
+the ones in holiness, also hint at מומין (blemishes) — for this he put first,
+in the verse before, `תמימִם` ('unblemished'), and broke off and ended the
+verse there; and only afterwards, in the second verse, began `ומנחתם` etc."
+
+The difficulty answers itself out of the layout of the text. If the letter מ
+carries מומין (the previous piece: `לומר מומי"ן הטיל יעקב בהם`), then the eight
+mem-words on the holy side ought to be blemished too. The answer is that
+Scripture guards them: the word standing at their head is תמימִם, *unblemished*,
+and the verse is cut off right there, so that the word of wholeness closes one
+verse and the run of mems opens the next.
+
+**Context (the verses themselves, not quoted in full by the passage):**
+Num. 29:17 ends `כְּבָשִׂים בְּנֵי שָׁנָה אַרְבָּעָה עָשָׂר תְּמִימִם`, and
+29:18 reads `וּמִנְחָתָם וְנִסְכֵּיהֶם לַפָּרִים לָאֵילִם וְלַכְּבָשִׂים
+בְּמִסְפָּרָם כַּמִּשְׁפָּט` — seven words ending in ם, with תמימם before them
+making eight. This pattern repeats through the days of Sukkot.
+
+### Why one verse there and two verses here
+
+> ובזה יובן למה אותן הממי"ן הנרמזים במנחת יעקב לעשו, כולם באו בפסוק א', ואלו
+> שבקרבן, בב' פסוקים, וכמ"ש לעיל.
+
+"And by this it is understood why those mems hinted at in Jacob's Minchah to
+Esau all came in **one** verse, while these of the offering are in **two**
+verses, as has been said above."
+
+The count is the same on both sides — eight and eight — but the packaging is
+not. Esau's eight run unbroken in a single verse (Gen. 32:15: עזים מאתים
+ותישים עשרים רחלים מאתים ואילים עשרים), because nothing separates them from
+the blemish. The holy eight are deliberately split by a verse-end, with תמימם
+on the far side of the break.
+
+> ליקוטי תורה
+
+The editor's attribution: this whole מנחה passage is from **Likkutei Torah**.
+
+*(Footnote ד, on `מומין הטיל יעקב בהם` above: מדרש לקח טוב — פסיקתא זוטרתא —
+on Vayishlach 32:16, and so too the Baal HaTurim on the Torah.)*
+
+### Thread
+
+The passage closes by defending its own device. Having read the letter מ as
+מומין, it has to account for the eight mems that stand in the Temple service,
+and it does so not by softening the reading but by pointing at where the verse
+breaks: holiness gets its mems too, but only after the word תמימִם has been
+said and the verse sealed. Jacob's gift to Esau has its eight mems packed into
+one continuous verse — blemish without interruption, so that nothing in it can
+be raised as an offering. And with that the long מנחה passage of ליקוטי תורה
+ends: one word, מנחה, has carried the 103 worlds of the left hand, the
+afternoon prayer, the rest of Shiloh, the consolation of נחמה, and finally the
+blemish that keeps the gift out of the hands of idolatry.
