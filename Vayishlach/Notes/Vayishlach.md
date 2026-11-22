@@ -4,12 +4,13 @@
 
 Scan: `Vayishlach/Scans/Vayishlach.pdf`, 15 pages. PDF page 1 = book page **תמא**.
 
-Working through the האריז"ל section of page תמא, right column: the passage on
-`ויקח מן הבא בידו מנחה` (Gen 32:14). Covered the opening (the 310 worlds, the
-103/207 split, מנחה = 103) and the decoding of the letters מ-נ-ח-ה, through
-`וזה הענין` — the piece breaks mid-sentence there.
+Working through the האריז"ל passage on `ויקח מן הבא בידו מנחה` (Gen 32:14).
+Page תמא both columns are done — the 310 worlds and the 103/207 split,
+מנחה = 103, and the decoding of the letters מ-נ-ח-ה. Continued onto the next
+book page (number to confirm, presumably תמב), right column: Shiloh as מנוחה,
+and מנחה → נחמה. That piece breaks after `לאותיות נחמ"ה`.
 
-**Next:** continue from `וזה הענין`, on the זיווג אב"א of Minchah.
+**Next:** the line beginning under `נחמ"ה`, rest of that right column.
 
 ---
 
@@ -165,3 +166,69 @@ why it is a **prayer**: prayer is speech, dinim leaving by way of the mouth
 after the nose has sweetened them. And it reaches back to the verse — Jacob's
 מנחה is sent to Esau at the hour of back-to-back, the gift going out ahead of
 the face, exactly as the sweetened din goes out through the mouth.
+
+
+---
+
+## Next page (number to confirm) — Shiloh, מנוחה, and נחמה
+
+Runs on directly from `וזה הענין` at the end of page תמא.
+
+### Only in Shiloh
+
+> [וזה הענין] לא היה רק במשכן שילה, ולזה כיונו רז"ל באמרם ג אל המנוחה ואל
+> הנחלה, מנוחה: זה שילה, נחלה: זה בית עולמים.
+
+"[And this matter] was only in the Mishkan of Shiloh. And to this Chazal
+directed themselves in saying, on `אל המנוחה ואל הנחלה` — מנוחה, that is
+Shiloh; נחלה, that is the Eternal House."
+
+The verse is Deut. 12:9, `כי לא באתם עד עתה אל המנוחה ואל הנחלה`; the reading
+מנוחה = Shiloh, נחלה = Jerusalem is the standard one (Zevachim 119a / Sifrei).
+Footnote ג gives the editor's source.
+
+> כי שם במשכן שילה היה ג"כ הזיווג ע"ד הנ"ל, וזהו מנוחה, כי היא מנחה ו',
+> פירוש: סוד המנחה של ו', שהיא גבורה דז"א, נקרא מנוחה: מנחה ו'.
+
+"For there in the Mishkan of Shiloh there was likewise the coupling in the
+manner stated above, and this is מנוחה — for it is מנחה [plus] ו. Meaning: the
+secret of the Minchah of the ו, which is the Gevurah of Z"A, is called
+מנוחה — מנחה ו'."
+
+The move is by letters, not number: **מנחה + ו = מנוחה**. The ו is Z"A, so
+מנוחה is the Minchah belonging to the Vav — the Gevurah of Z"A.
+
+### Why that rest is "good"
+
+> וזהו שאמר וירא מנוחה כי טוב, כי הוא נמשך מן הר"ז עולמות שבחסד הנקרא טוב,
+> ובין כולם הם ש"י עולמות.
+
+"And this is what is said, `וירא מנוחה כי טוב` — for it is drawn from the ר"ז
+(207) worlds of Chesed, which is called טוב; and among them all they are ש"י
+(310) worlds."
+
+The verse is Gen. 49:15, of Issachar. The `כי טוב` is explained: the rest is
+good because it is fed from the right-hand 207, Chesed = טוב. The two sides
+restated: 103 left + 207 right = 310.
+
+### The letters turn over
+
+> אמנם סוד מנח"ה שהם גבורה, יחזרו לעתיד לאותיות נחמ"ה.
+
+"However the secret of מנח"ה, which are Gevurah, will in the future turn into
+the letters נחמ"ה."
+
+The same four letters re-ordered: **מ נ ח ה → נ ח מ ה**. Din becomes
+consolation. The text speaks of letters here, not a count.
+
+*(The abbreviation after לעתיד is unclear in the scan.)*
+
+### Thread
+
+One word carried through three states, and only the order of its letters
+changes. **מנחה** — the gevurot, the gift, the afternoon prayer. Add the ו of
+Z"A and it is **מנוחה**, the rest of Shiloh, and even that rest is only good
+because the right side feeds it. And at the end, the same letters settle as
+**נחמה**. Which lands back on our verse: Jacob sends מנחה to Esau — the sending
+of din into the left — and the end of that story, in the same four letters, is
+consolation.
