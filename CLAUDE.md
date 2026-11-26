@@ -17,6 +17,10 @@ The scans are **not** in the repo. They live on Google Drive, and each parasha's
 notes carry the link to its PDF in the `## Progress` section. Nothing under
 `Scans/` is ever committed — see `## Reading the scans` below.
 
+Reference material that is not tied to a single parasha — editions, the
+systematic works, lectures, the buying list — lives in `SOURCES.md` at the repo
+root, not in a parasha's notes.
+
 Progress lives in a `## Progress` section at the top of each
 `<Parasha>/Notes/<Parasha>.md`, not in this file. Update it at the end of every
 session: what was covered, where we stopped, what comes next.
@@ -54,6 +58,9 @@ they are. If the Arizal hints at a numerical match without spelling it out, say
   them freely.
 - Anything brought from outside the passage (Rashi on the verse, for instance)
   must be marked as **context**, never presented as the Arizal's words.
+- Reference material worth keeping — an edition, a commentary, something to buy
+  — goes in root `SOURCES.md`, under a parasha heading when it is tied to one
+  passage. Keep the notes themselves about the text.
 - Summarize a footnote briefly when it raises a difficulty (קושיא / צ"ע).
 
 ## How a session runs
