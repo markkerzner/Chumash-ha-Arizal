@@ -9,10 +9,13 @@ One directory per parasha, matching what is already here:
 
 ```
 <Parasha>/
-  Scans/<Parasha>.pdf   scanned pages of the printed edition
   Notes/<Parasha>.md    sentence-by-sentence study notes (written as we go)
   Slides/NN.md          slide decks; ./gen.sh builds NN.pptx from them
 ```
+
+The scans are **not** in the repo. They live on Google Drive, and each parasha's
+notes carry the link to its PDF in the `## Progress` section. Nothing under
+`Scans/` is ever committed — see `## Reading the scans` below.
 
 Progress lives in a `## Progress` section at the top of each
 `<Parasha>/Notes/<Parasha>.md`, not in this file. Update it at the end of every
@@ -65,16 +68,22 @@ file's `## Progress` section before the session ends.
 
 ## Reading the scans
 
-Mark normally supplies the images. Render from the PDF yourself when we need to
-look back at a page he has not posted, or to check the surrounding columns.
+The scans live on Google Drive, outside this repo; each parasha's notes link to
+its PDF. **A Drive link is not something Claude can open** — it needs Mark's
+Google session — so do not try to fetch one, and do not treat a link as if the
+page behind it had been read.
 
+Mark supplies the images. When we need a page he has not posted, or the columns
+around one, ask him for it: a fresh screenshot, or the PDF downloaded to a local
+path to render from. Never fill the gap by guessing at what a page says.
 
-The scans are images. **`pdftotext` on these PDFs returns garbage** — the
-embedded font has no usable Unicode mapping, so the output looks like Latin
-gibberish. Ignore it; it is not a text layer. Render and read instead:
+Given a local copy, render it rather than extract it. The scans are images, and
+**`pdftotext` on these PDFs returns garbage** — the embedded font has no usable
+Unicode mapping, so the output looks like Latin gibberish. Ignore it; it is not
+a text layer.
 
 ```bash
-pdftoppm -r 300 -png -f <page> -l <page> <Parasha>/Scans/<Parasha>.pdf /tmp/.../p
+pdftoppm -r 300 -png -f <page> -l <page> <local-path>/<Parasha>.pdf /tmp/.../p
 convert p-01.png -crop 900x1100+1650+100 +repage -sharpen 0x1 crop.png
 ```
 

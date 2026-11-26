@@ -2,7 +2,7 @@
 
 ## Progress
 
-Scan: `Vayishlach/Scans/Vayishlach.pdf`, 15 pages. PDF page 1 = book page **תמא**.
+Scan: on Google Drive — TODO-DRIVE-LINK — 15 pages. PDF page 1 = book page **תמא**.
 
 Working through the האריז"ל passage on `ויקח מן הבא בידו מנחה` (Gen 32:14).
 

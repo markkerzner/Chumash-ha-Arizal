@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Scans of the printed edition — archived on Google Drive, never committed.
+# See CLAUDE.md, "Reading the scans".
+Scans/
