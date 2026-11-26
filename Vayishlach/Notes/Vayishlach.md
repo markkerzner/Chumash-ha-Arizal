@@ -2,7 +2,7 @@
 
 ## Progress
 
-Scan: on Google Drive — TODO-DRIVE-LINK — 15 pages. PDF page 1 = book page **תמא**.
+Scan: on Google Drive — https://drive.google.com/file/d/1bUnVOA0rBkxLRMQ8ePVIqk3EI0tiHU5a/view?usp=drive_link — 15 pages. PDF page 1 = book page **תמא**.
 
 Working through the האריז"ל passage on `ויקח מן הבא בידו מנחה` (Gen 32:14).
 
