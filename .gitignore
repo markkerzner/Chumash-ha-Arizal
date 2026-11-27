@@ -225,3 +225,6 @@ __marimo__/
 # Scans of the printed edition — archived on Google Drive, never committed.
 # See CLAUDE.md, "Reading the scans".
 Scans/
+
+# Private working notes — meeting prep, drafts. Never committed; this repo is public.
+*.local.md
