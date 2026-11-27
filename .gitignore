@@ -226,5 +226,5 @@ __marimo__/
 # See CLAUDE.md, "Reading the scans".
 Scans/
 
-# Private working notes — meeting prep, drafts. Never committed; this repo is public.
+# Private working notes. Never committed; this repo is public.
 *.local.md
